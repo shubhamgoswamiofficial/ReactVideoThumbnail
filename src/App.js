@@ -24,7 +24,7 @@ reader.readAsDataURL(event.target.files[0]);
 
 
 <input id="abc" type="file"  onChange={(event)=>this.videoUpload(event)}/>
-<video id="video" width="520" height="440" ></video>
+<video id="video" width="520" height="440" style={{ pointerEvents: 'none' }} ></video>
 
 
         </header>
