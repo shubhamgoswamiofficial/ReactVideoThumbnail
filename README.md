@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project is created on React to display video Thumbnail after User selects a video file to upload.
 
 ## Available Scripts
+NO third party dependencies are required.
+
+### Just make changes in App.js in "src" Directory
 
 In the project directory, you can run:
 
